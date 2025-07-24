@@ -6,7 +6,8 @@ The goal of this coding exam is to quickly get you off the ground with the Boots
 
 Use the below reference image.
 
-![Uploading image.png…]()
+<img width="390" height="215" alt="image" src="https://github.com/user-attachments/assets/74f16fa8-08e7-4f73-a177-c9db9d4c52cf" />
+
 
 Insert a video using the Bootstrap Component Embed.
 
